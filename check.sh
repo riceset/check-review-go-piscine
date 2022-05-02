@@ -17,7 +17,7 @@ if [[ $1 == "see" ]]; then
 		Go$2/ex$3/main.go \
 		Go$2/ex$3/vendor/piscine/*.go
 elif [[ $1 == "edit" ]]; then
-	lvim Go$2/ex$3/main.go \
+	vim Go$2/ex$3/main.go \
 	Go$2/ex$3/vendor/piscine/*.go
 elif [[ $1 == "run" ]]; then
 	cd Go$2/ex$3
