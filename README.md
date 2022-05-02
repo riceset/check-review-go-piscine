@@ -9,7 +9,7 @@ Go-Piscine
         |-- main.go
         |-- vendor
             |-- ft
-            |-- printrune.go
+                |-- printrune.go
             |-- piscine
                 |-- [excercisename].go
 ```
