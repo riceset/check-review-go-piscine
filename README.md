@@ -15,10 +15,14 @@ Go-Piscine
 ```
 
 ## Usage:
-First source the file to be able to `cd` into other directories:
+First, give the permissions to execute the file:
+```sh
+chmod u+x check.sh
+```
+
+Source the file to be able to `cd` into other directories:
 ```sh
 source check.sh
-
 ```
 
 ## Explanation:
