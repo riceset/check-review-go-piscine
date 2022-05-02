@@ -48,7 +48,9 @@ Use `sh check.sh edit 00 01` (to edit Go00's ex01 using vim)
 - ### run
 Use `sh check.sh run 00 01` (to run Go00's ex01)
 
-```💡 There is no need of running go mod init exXX because this command already does it automatically for you!```
+```
+💡 There is no need of running go mod init exXX because this command already does it automatically for you!
+```
 
 ![image](https://user-images.githubusercontent.com/48802655/166210298-3d54b631-42c0-49ee-85c1-8568f4d263d0.png)
 
