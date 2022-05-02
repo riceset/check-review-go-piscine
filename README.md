@@ -3,7 +3,7 @@
 ## Where to place it:
 ```
 Go-Piscine
-|-- check.sh
+|-- check.sh          <---- here
 |-- GoXX
     |-- ex[XX]
         |-- main.go
