@@ -1,5 +1,19 @@
 # Check Review Go Piscine (42 Tokyo)
 
+## Where to place it:
+```
+Go-Piscine
+|-- check.sh
+|-- GoXX
+    |-- ex[XX]
+        |-- main.go
+        |-- vendor
+            |-- ft
+            |-- printrune.go
+            |-- piscine
+                |-- [excercisename].go
+```
+
 ## Usage:
 First source the file to be able to `cd` into other directories:
 ```sh
