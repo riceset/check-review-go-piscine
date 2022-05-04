@@ -1,6 +1,13 @@
-# Check Review Go Piscine (42 Tokyo)
+<h1 align="center">
+	Check Review Go Piscine
+</h1>
 
-## Where to place it:
+<p align="center">
+	<b><i>A simple shell script for using on reviews at @42Tokyo's Go Piscine.</i></b><br>
+</p>
+
+
+## Where to place it
 ```
 Go-Piscine
 |-- check.sh                <---- here
@@ -14,7 +21,7 @@ Go-Piscine
                 |-- [excercisename].go
 ```
 
-## Usage:
+## Usage
 First, give the permissions to execute the file:
 ```sh
 chmod u+x check.sh
@@ -25,14 +32,14 @@ Source the file to be able to `cd` into other directories:
 source check.sh
 ```
 
-## Explanation:
+## Explanation
 You should execute the command like this:
 ```sh
 sh check.sh ACTION (e.g. see/edit/run) LESSON (e.g. Go00) EXERCISE (e.g. ex00)
 
 ```
 
-## Use Example:
+## Use Example
 
 - ### see
 Use `sh check.sh see 00 01` (to see Go00's ex01 contents using cat/bat)
