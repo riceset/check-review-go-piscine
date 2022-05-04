@@ -4,7 +4,7 @@
 ```
 Go-Piscine
 |-- check.sh                <---- here
-|-- GoXX
+|-- Go[XX]
     |-- ex[XX]
         |-- main.go
         |-- vendor
